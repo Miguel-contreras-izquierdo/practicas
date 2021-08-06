@@ -1,0 +1,86 @@
+body{
+    margin:auto;
+    background-color: #e6e6e6
+}
+h1{
+    margin: auto;
+}
+.header{
+    background-color: yellow;
+    /*border-collapse: collapse;*/
+    padding: 50px;
+    min-height: 1000% !important;
+    /*height: 8000%;*/
+
+}
+
+
+main{
+    
+    background-color:#e6e6e6;
+}
+footer{
+    margin-top:550px;
+    background-color:#FFFFFF;
+}
+.footer_elements{
+    text-align: center;
+    border-color: white;
+    background-color: white;
+}
+.footer_element_superior{
+    color: rgb(0,0,0,.8);
+    margin-bottom: 0px;
+    border-top: 155px;
+    border-color: white;
+    background-color: white;
+}
+
+.footer_element_inferior{
+    color: rgb(0,0,0,.45);
+    margin-top: 0px;
+    border-bottom: white;
+    background-color: white;
+}
+.card{
+    background-color: white;
+    width: 35%;
+    text-align: center;
+    margin: -45px;
+    margin-left: 250px;
+    padding:20px;
+    border-radius: 5px;
+    width: 250px
+    font-family:Proxima Nova, -apple-system, Arial, Helvetica, sans-serif , Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.botones{
+    width: 225px;;
+    height: 25px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+.boton_azul{
+    color:white;
+    background-color:#3483fa;
+    font-weight: bold;
+    border-style: solid;
+}
+
+.boton_transparente{
+    color:#3483fa;
+    background-color:white;
+    border-color: transparent;
+    font-weight: bold;
+}
+
+
+h1{
+    font:Helvetica;
+    
+}
+
+.logo{
+    margin-top: -145px;
+}
